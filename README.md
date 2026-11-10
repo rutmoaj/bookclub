@@ -24,4 +24,4 @@ run.bat
 
 Please go to following link to see website:
 
- http://localhost:8080
+ http://localhost:8080/home
